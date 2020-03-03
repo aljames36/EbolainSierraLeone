@@ -1,0 +1,2137 @@
+{
+  "aa_muts": {},
+  "attr": {
+    "clock_length": 0.001,
+    "country": "SierraLeone14",
+    "country_confidence": {
+      "SierraLeone14": 0.9992739278146
+    },
+    "country_entropy": 0.005973757447726404,
+    "date": "2014-02-18",
+    "div": 0,
+    "num_date": 2014.1349307831363,
+    "num_date_confidence": [
+      2013.9535554647748,
+      2014.3424873722115
+    ]
+  },
+  "branch_length": 0.001,
+  "children": [
+    {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "C111R"
+        ]
+      },
+      "attr": {
+        "clock_length": 0.00012123124773306005,
+        "country": "SierraLeone14",
+        "country_confidence": {
+          "SierraLeone14": 0.9999999966507752
+        },
+        "country_entropy": 6.870579400135193e-08,
+        "date": "2014-04-21",
+        "div": 1.5525293119125248e-19,
+        "num_date": 2014.3062702017057,
+        "num_date_confidence": [
+          2014.264153840773,
+          2014.3669503474086
+        ]
+      },
+      "branch_length": 0.00012123,
+      "children": [
+        {
+          "aa_muts": {
+            "ZEBOVgp4": [
+              "S46N"
+            ]
+          },
+          "attr": {
+            "accession": "KM034563",
+            "clock_length": 6.999915912213935e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-05-28",
+            "div": 5.281947547270409e-05,
+            "num_date": 2014.4052019164956,
+            "num_date_confidence": [
+              2014.4052019164956,
+              2014.4052019164956
+            ],
+            "raw_date": "2014-05-28"
+          },
+          "branch_length": 7e-05,
+          "clade": 0,
+          "muts": [
+            "G6175A"
+          ],
+          "strain": "KM034563",
+          "yvalue": 43
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "KM034561",
+            "clock_length": 6.999915912213935e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-05-28",
+            "div": 5.2818998806118333e-05,
+            "num_date": 2014.4052019164956,
+            "num_date_confidence": [
+              2014.4052019164956,
+              2014.4052019164956
+            ],
+            "raw_date": "2014-05-28"
+          },
+          "branch_length": 7e-05,
+          "clade": 1,
+          "muts": [
+            "A9536G"
+          ],
+          "strain": "KM034561",
+          "yvalue": 42
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "KM034559",
+            "clock_length": 6.999915912213935e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-05-28",
+            "div": 5.2818998806118333e-05,
+            "num_date": 2014.4052019164956,
+            "num_date_confidence": [
+              2014.4052019164956,
+              2014.4052019164956
+            ],
+            "raw_date": "2014-05-28"
+          },
+          "branch_length": 7e-05,
+          "clade": 2,
+          "muts": [
+            "A2497G"
+          ],
+          "strain": "KM034559",
+          "yvalue": 41
+        },
+        {
+          "aa_muts": {
+            "ZEBOVgp7": [
+              "Q1340R"
+            ]
+          },
+          "attr": {
+            "accession": "KM034562",
+            "clock_length": 6.999915912213935e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-05-28",
+            "div": 0.00010564301870293199,
+            "num_date": 2014.4052019164956,
+            "num_date_confidence": [
+              2014.4052019164956,
+              2014.4052019164956
+            ],
+            "raw_date": "2014-05-28"
+          },
+          "branch_length": 7e-05,
+          "clade": 3,
+          "muts": [
+            "C11811T",
+            "A15599G"
+          ],
+          "strain": "KM034562",
+          "yvalue": 40
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 5.025872034018081e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 0.9999697287793748
+            },
+            "country_entropy": 0.00034525228930802523,
+            "date": "2014-05-17",
+            "div": 3.1050586238250496e-19,
+            "num_date": 2014.3773022176435,
+            "num_date_confidence": [
+              2014.3105697088015,
+              2014.3927087670709
+            ]
+          },
+          "branch_length": 5.026e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 1.7803271784458917e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 0.9999707933910497
+                },
+                "country_entropy": 0.00033415575902654814,
+                "date": "2014-05-27",
+                "div": 4.657587935737574e-19,
+                "num_date": 2014.4024640657085,
+                "num_date_confidence": [
+                  2014.3521531015306,
+                  2014.4024640657085
+                ]
+              },
+              "branch_length": 1.78e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034555",
+                    "clock_length": 1.937166997532068e-05,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-06-05",
+                    "div": 6.210117247650099e-19,
+                    "num_date": 2014.4298425735797,
+                    "num_date_confidence": [
+                      2014.4298425735797,
+                      2014.4298425735797
+                    ],
+                    "raw_date": "2014-06-06"
+                  },
+                  "branch_length": 1.937e-05,
+                  "clade": 4,
+                  "muts": [],
+                  "strain": "KM034555",
+                  "yvalue": 39
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034554",
+                    "clock_length": 0.0,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-05-27",
+                    "div": 6.210117247650099e-19,
+                    "num_date": 2014.4024640657085,
+                    "num_date_confidence": [
+                      2014.4024640657085,
+                      2014.4024640657085
+                    ],
+                    "raw_date": "2014-05-27"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 5,
+                  "muts": [],
+                  "strain": "KM034554",
+                  "yvalue": 38
+                }
+              ],
+              "clade": 6,
+              "muts": [],
+              "strain": "NODE_0000003",
+              "yvalue": 38.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 1.3928937789297463e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 0.9999707933910497
+                },
+                "country_entropy": 0.00033415575902654814,
+                "date": "2014-05-24",
+                "div": 4.657587935737574e-19,
+                "num_date": 2014.3969883641341,
+                "num_date_confidence": [
+                  2014.350432673104,
+                  2014.3969883641341
+                ]
+              },
+              "branch_length": 1.393e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034549",
+                    "clock_length": 0.0,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-05-24",
+                    "div": 6.210117247650099e-19,
+                    "num_date": 2014.3969883641341,
+                    "num_date_confidence": [
+                      2014.3969883641341,
+                      2014.3969883641341
+                    ],
+                    "raw_date": "2014-05-25"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 7,
+                  "muts": [],
+                  "strain": "KM034549",
+                  "yvalue": 37
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034550",
+                    "clock_length": 0.0,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-05-24",
+                    "div": 6.210117247650099e-19,
+                    "num_date": 2014.3969883641341,
+                    "num_date_confidence": [
+                      2014.3969883641341,
+                      2014.3969883641341
+                    ],
+                    "raw_date": "2014-05-25"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 8,
+                  "muts": [],
+                  "strain": "KM034550",
+                  "yvalue": 36
+                }
+              ],
+              "clade": 9,
+              "muts": [],
+              "strain": "NODE_0000004",
+              "yvalue": 36.5
+            }
+          ],
+          "clade": 10,
+          "muts": [],
+          "strain": "NODE_0000002",
+          "yvalue": 37.5
+        }
+      ],
+      "clade": 11,
+      "muts": [
+        "T800C",
+        "C8928A",
+        "A15963G",
+        "C17142T"
+      ],
+      "strain": "NODE_0000006",
+      "yvalue": 40.25
+    },
+    {
+      "aa_muts": {},
+      "attr": {
+        "clock_length": 0.00010691771669502081,
+        "country": "SierraLeone14",
+        "country_confidence": {
+          "SierraLeone14": 0.999999903323265
+        },
+        "country_entropy": 1.6581870146998565e-06,
+        "date": "2014-04-14",
+        "div": 0.00021130473293437508,
+        "num_date": 2014.2860404991202,
+        "num_date_confidence": [
+          2014.2093381094041,
+          2014.3838910201841
+        ]
+      },
+      "branch_length": 0.00010692,
+      "children": [
+        {
+          "aa_muts": {},
+          "attr": {
+            "accession": "KM233044",
+            "clock_length": 9.787285914300038e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 1.0
+            },
+            "country_entropy": -1.000088900581841e-12,
+            "date": "2014-06-04",
+            "div": 0.0002641223558635486,
+            "num_date": 2014.4243668720055,
+            "num_date_confidence": [
+              2014.4243668720055,
+              2014.4243668720055
+            ],
+            "raw_date": "2014-06-04"
+          },
+          "branch_length": 9.787e-05,
+          "clade": 12,
+          "muts": [
+            "A1492G"
+          ],
+          "strain": "KM233044",
+          "yvalue": 35
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 8.0438356165018e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 0.9999718946760877
+            },
+            "country_entropy": 0.00032263611734387665,
+            "date": "2014-05-25",
+            "div": 0.0002641223558635486,
+            "num_date": 2014.3997262149212,
+            "num_date_confidence": [
+              2014.3395747888821,
+              2014.3997262149212
+            ]
+          },
+          "branch_length": 8.044e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KM034551",
+                "clock_length": 0.0,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-05-25",
+                "div": 0.00026412235586354874,
+                "num_date": 2014.3997262149212,
+                "num_date_confidence": [
+                  2014.3997262149212,
+                  2014.3997262149212
+                ],
+                "raw_date": "2014-05-26"
+              },
+              "branch_length": 0.0,
+              "clade": 13,
+              "muts": [],
+              "strain": "KM034551",
+              "yvalue": 34
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KM034558",
+                "clock_length": 3.8743339951605865e-06,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-05-28",
+                "div": 0.00026412235586354874,
+                "num_date": 2014.4052019164956,
+                "num_date_confidence": [
+                  2014.4052019164956,
+                  2014.4052019164956
+                ],
+                "raw_date": "2014-05-28"
+              },
+              "branch_length": 3.87e-06,
+              "clade": 14,
+              "muts": [],
+              "strain": "KM034558",
+              "yvalue": 33
+            }
+          ],
+          "clade": 15,
+          "muts": [
+            "A2341G"
+          ],
+          "strain": "NODE_0000009",
+          "yvalue": 33.5
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 3.442789513189923e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 0.9999696832658512
+            },
+            "country_entropy": 0.0003457258361954511,
+            "date": "2014-05-02",
+            "div": 0.00021130473293437524,
+            "num_date": 2014.3346983793676,
+            "num_date_confidence": [
+              2014.2594518840085,
+              2014.3926493841793
+            ]
+          },
+          "branch_length": 3.443e-05,
+          "children": [
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 4.6010461033118774e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 0.9999707917299354
+                },
+                "country_entropy": 0.0003341731028159084,
+                "date": "2014-05-25",
+                "div": 0.0002113047329343754,
+                "num_date": 2014.3997262149212,
+                "num_date_confidence": [
+                  2014.340351469916,
+                  2014.3997262149212
+                ]
+              },
+              "branch_length": 4.601e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034556",
+                    "clock_length": 0.0,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2014-05-25",
+                    "div": 0.00021130473293437557,
+                    "num_date": 2014.3997262149212,
+                    "num_date_confidence": [
+                      2014.3997262149212,
+                      2014.3997262149212
+                    ],
+                    "raw_date": "2014-05-26"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 16,
+                  "muts": [],
+                  "strain": "KM034556",
+                  "yvalue": 32
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034552",
+                    "clock_length": 0.0,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 0.9999999999999999
+                    },
+                    "country_entropy": -9.99866855976916e-13,
+                    "date": "2014-05-25",
+                    "div": 0.00021130473293437557,
+                    "num_date": 2014.3997262149212,
+                    "num_date_confidence": [
+                      2014.3997262149212,
+                      2014.3997262149212
+                    ],
+                    "raw_date": "2014-05-26"
+                  },
+                  "branch_length": 0.0,
+                  "clade": 17,
+                  "muts": [],
+                  "strain": "KM034552",
+                  "yvalue": 31
+                }
+              ],
+              "clade": 18,
+              "muts": [],
+              "strain": "NODE_0000008",
+              "yvalue": 31.5
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 3.824871280955124e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 0.9999696869174379
+                },
+                "country_entropy": 0.0003456878456691787,
+                "date": "2014-05-21",
+                "div": 0.0002113047329343754,
+                "num_date": 2014.3887563251233,
+                "num_date_confidence": [
+                  2014.3311119750324,
+                  2014.4009554049296
+                ]
+              },
+              "branch_length": 3.825e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "accession": "KM034557",
+                    "clock_length": 9.69891522122849e-06,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 1.0
+                    },
+                    "country_entropy": -1.000088900581841e-12,
+                    "date": "2014-05-27",
+                    "div": 0.00021130473293437557,
+                    "num_date": 2014.4024640657085,
+                    "num_date_confidence": [
+                      2014.4024640657085,
+                      2014.4024640657085
+                    ],
+                    "raw_date": "2014-05-27"
+                  },
+                  "branch_length": 9.7e-06,
+                  "clade": 19,
+                  "muts": [],
+                  "strain": "KM034557",
+                  "yvalue": 30
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 1.1636082218728118e-05,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 0.999970791863208
+                    },
+                    "country_entropy": 0.0003341717113131023,
+                    "date": "2014-05-28",
+                    "div": 0.00021130473293437557,
+                    "num_date": 2014.4052019164956,
+                    "num_date_confidence": [
+                      2014.3669624873169,
+                      2014.4052019164956
+                    ]
+                  },
+                  "branch_length": 1.164e-05,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KM034560",
+                        "clock_length": 0.0,
+                        "country": "SierraLeone14",
+                        "country_confidence": {
+                          "SierraLeone14": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2014-05-28",
+                        "div": 0.00021130473293437573,
+                        "num_date": 2014.4052019164956,
+                        "num_date_confidence": [
+                          2014.4052019164956,
+                          2014.4052019164956
+                        ],
+                        "raw_date": "2014-05-28"
+                      },
+                      "branch_length": 0.0,
+                      "clade": 20,
+                      "muts": [],
+                      "strain": "KM034560",
+                      "yvalue": 29
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "accession": "KM233105",
+                        "clock_length": 3.8743339950803556e-05,
+                        "country": "SierraLeone14",
+                        "country_confidence": {
+                          "SierraLeone14": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2014-06-16",
+                        "div": 0.00021130473293437573,
+                        "num_date": 2014.4599589322381,
+                        "num_date_confidence": [
+                          2014.4599589322381,
+                          2014.4599589322381
+                        ],
+                        "raw_date": "2014-06-17"
+                      },
+                      "branch_length": 3.874e-05,
+                      "clade": 21,
+                      "muts": [],
+                      "strain": "KM233105",
+                      "yvalue": 28
+                    }
+                  ],
+                  "clade": 22,
+                  "muts": [],
+                  "strain": "NODE_0000012",
+                  "yvalue": 28.5
+                }
+              ],
+              "clade": 23,
+              "muts": [],
+              "strain": "NODE_0000010",
+              "yvalue": 29.25
+            }
+          ],
+          "clade": 24,
+          "muts": [],
+          "strain": "NODE_0000007",
+          "yvalue": 30.375
+        },
+        {
+          "aa_muts": {},
+          "attr": {
+            "clock_length": 3.9339920289962506e-05,
+            "country": "SierraLeone14",
+            "country_confidence": {
+              "SierraLeone14": 0.9999438171761099
+            },
+            "country_entropy": 0.000606036893100627,
+            "date": "2014-05-04",
+            "div": 0.00026412285036260595,
+            "num_date": 2014.3416406780764,
+            "num_date_confidence": [
+              2014.2850187800343,
+              2014.4083824871157
+            ]
+          },
+          "branch_length": 3.934e-05,
+          "children": [
+            {
+              "aa_muts": {
+                "ZEBOVgp3": [
+                  "I94T"
+                ]
+              },
+              "attr": {
+                "accession": "KM233109",
+                "clock_length": 8.56532768186806e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-06-18",
+                "div": 0.00036976218133692935,
+                "num_date": 2014.4626967830254,
+                "num_date_confidence": [
+                  2014.4626967830254,
+                  2014.4626967830254
+                ],
+                "raw_date": "2014-06-18"
+              },
+              "branch_length": 8.565e-05,
+              "clade": 25,
+              "muts": [
+                "T4709C",
+                "T4759C"
+              ],
+              "strain": "KM233109",
+              "yvalue": 27
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "accession": "KM233100",
+                "clock_length": 8.177894282352001e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 1.0
+                },
+                "country_entropy": -1.000088900581841e-12,
+                "date": "2014-06-16",
+                "div": 0.00031694153409339223,
+                "num_date": 2014.457221081451,
+                "num_date_confidence": [
+                  2014.457221081451,
+                  2014.457221081451
+                ],
+                "raw_date": "2014-06-16"
+              },
+              "branch_length": 8.178e-05,
+              "clade": 26,
+              "muts": [
+                "A1024C"
+              ],
+              "strain": "KM233100",
+              "yvalue": 26
+            },
+            {
+              "aa_muts": {},
+              "attr": {
+                "clock_length": 2.542786798163943e-05,
+                "country": "SierraLeone14",
+                "country_confidence": {
+                  "SierraLeone14": 0.9623477891761133,
+                  "SierraLeone15": 0.03765221082388674
+                },
+                "country_entropy": 0.16040958830573826,
+                "date": "2014-05-17",
+                "div": 0.0002641228503626061,
+                "num_date": 2014.3775785752514,
+                "num_date_confidence": [
+                  2014.3211209605386,
+                  2014.413343999749
+                ]
+              },
+              "branch_length": 2.543e-05,
+              "children": [
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 7.505300344477252e-06,
+                    "country": "SierraLeone14",
+                    "country_confidence": {
+                      "SierraLeone14": 0.9984895318851721,
+                      "SierraLeone15": 0.0015104681148277815
+                    },
+                    "country_entropy": 0.011320324200240484,
+                    "date": "2014-05-21",
+                    "div": 0.0002641228503626063,
+                    "num_date": 2014.3881860202894,
+                    "num_date_confidence": [
+                      2014.347498374199,
+                      2014.416407493313
+                    ]
+                  },
+                  "branch_length": 7.51e-06,
+                  "children": [
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 3.5285605514581535e-05,
+                        "country": "SierraLeone14",
+                        "country_confidence": {
+                          "SierraLeone14": 0.9999167704139755
+                        },
+                        "country_entropy": 0.0008650771670475979,
+                        "date": "2014-06-08",
+                        "div": 0.00026412285036260644,
+                        "num_date": 2014.438056125941,
+                        "num_date_confidence": [
+                          2014.383650947316,
+                          2014.438056125941
+                        ]
+                      },
+                      "branch_length": 3.529e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KM233117",
+                            "clock_length": 0.0,
+                            "country": "SierraLeone14",
+                            "country_confidence": {
+                              "SierraLeone14": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2014-06-08",
+                            "div": 0.0002641228503626066,
+                            "num_date": 2014.438056125941,
+                            "num_date_confidence": [
+                              2014.438056125941,
+                              2014.438056125941
+                            ],
+                            "raw_date": "2014-06-09"
+                          },
+                          "branch_length": 0.0,
+                          "clade": 27,
+                          "muts": [],
+                          "strain": "KM233117",
+                          "yvalue": 25
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "accession": "KM233113",
+                            "clock_length": 1.743450297798238e-05,
+                            "country": "SierraLeone14",
+                            "country_confidence": {
+                              "SierraLeone14": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2014-06-18",
+                            "div": 0.0003169415340933927,
+                            "num_date": 2014.4626967830254,
+                            "num_date_confidence": [
+                              2014.4626967830254,
+                              2014.4626967830254
+                            ],
+                            "raw_date": "2014-06-18"
+                          },
+                          "branch_length": 1.743e-05,
+                          "clade": 28,
+                          "muts": [
+                            "A12885C"
+                          ],
+                          "strain": "KM233113",
+                          "yvalue": 24
+                        }
+                      ],
+                      "clade": 29,
+                      "muts": [],
+                      "strain": "NODE_0000017",
+                      "yvalue": 24.5
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.3453860011047696e-05,
+                        "country": "SierraLeone14",
+                        "country_confidence": {
+                          "SierraLeone14": 0.9999105125456661
+                        },
+                        "country_entropy": 0.0009236328894091425,
+                        "date": "2014-05-28",
+                        "div": 0.00026412285036260644,
+                        "num_date": 2014.407200726439,
+                        "num_date_confidence": [
+                          2014.3808030226135,
+                          2014.4203384404454
+                        ]
+                      },
+                      "branch_length": 1.345e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 2.7643246496194922e-05,
+                            "country": "SierraLeone14",
+                            "country_confidence": {
+                              "SierraLeone14": 0.9999686321669257
+                            },
+                            "country_entropy": 0.00035664322393761446,
+                            "date": "2014-06-12",
+                            "div": 0.0002641228503626066,
+                            "num_date": 2014.4462696783025,
+                            "num_date_confidence": [
+                              2014.4197714526385,
+                              2014.4462696783025
+                            ]
+                          },
+                          "branch_length": 2.764e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KM233108",
+                                "clock_length": 1.1623001985321298e-05,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2014-06-18",
+                                "div": 0.00026412285036260676,
+                                "num_date": 2014.4626967830254,
+                                "num_date_confidence": [
+                                  2014.4626967830254,
+                                  2014.4626967830254
+                                ],
+                                "raw_date": "2014-06-18"
+                              },
+                              "branch_length": 1.162e-05,
+                              "clade": 30,
+                              "muts": [],
+                              "strain": "KM233108",
+                              "yvalue": 23
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KM233118",
+                                "clock_length": 0.0,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2014-06-12",
+                                "div": 0.00026412285036260676,
+                                "num_date": 2014.4462696783025,
+                                "num_date_confidence": [
+                                  2014.4462696783025,
+                                  2014.4462696783025
+                                ],
+                                "raw_date": "2014-06-12"
+                              },
+                              "branch_length": 0.0,
+                              "clade": 31,
+                              "muts": [],
+                              "strain": "KM233118",
+                              "yvalue": 22
+                            }
+                          ],
+                          "clade": 32,
+                          "muts": [],
+                          "strain": "NODE_0000019",
+                          "yvalue": 22.5
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 1.21459105158735e-05,
+                            "country": "SierraLeone14",
+                            "country_confidence": {
+                              "SierraLeone14": 0.9999686321669257
+                            },
+                            "country_entropy": 0.00035664322393761446,
+                            "date": "2014-06-04",
+                            "div": 0.0002641228503626066,
+                            "num_date": 2014.4243668720055,
+                            "num_date_confidence": [
+                              2014.399761661649,
+                              2014.4243668720055
+                            ]
+                          },
+                          "branch_length": 1.215e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KM233116",
+                                "clock_length": 0.0,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2014-06-04",
+                                "div": 0.00026412285036260676,
+                                "num_date": 2014.4243668720055,
+                                "num_date_confidence": [
+                                  2014.4243668720055,
+                                  2014.4243668720055
+                                ],
+                                "raw_date": "2014-06-04"
+                              },
+                              "branch_length": 0.0,
+                              "clade": 33,
+                              "muts": [],
+                              "strain": "KM233116",
+                              "yvalue": 21
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KM233047",
+                                "clock_length": 7.748667990160711e-06,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2014-06-08",
+                                "div": 0.00026412285036260676,
+                                "num_date": 2014.435318275154,
+                                "num_date_confidence": [
+                                  2014.435318275154,
+                                  2014.435318275154
+                                ],
+                                "raw_date": "2014-06-08"
+                              },
+                              "branch_length": 7.75e-06,
+                              "clade": 34,
+                              "muts": [],
+                              "strain": "KM233047",
+                              "yvalue": 20
+                            }
+                          ],
+                          "clade": 35,
+                          "muts": [],
+                          "strain": "NODE_0000020",
+                          "yvalue": 20.5
+                        }
+                      ],
+                      "clade": 36,
+                      "muts": [],
+                      "strain": "NODE_0000018",
+                      "yvalue": 21.5
+                    }
+                  ],
+                  "clade": 37,
+                  "muts": [],
+                  "strain": "NODE_0000015",
+                  "yvalue": 23.0
+                },
+                {
+                  "aa_muts": {},
+                  "attr": {
+                    "clock_length": 2.0752159175099066e-05,
+                    "country": "SierraLeone15",
+                    "country_confidence": {
+                      "SierraLeone14": 0.009593559380461851,
+                      "SierraLeone15": 0.990406440619538
+                    },
+                    "country_entropy": 0.05412543364169696,
+                    "date": "2014-05-28",
+                    "div": 0.00031694079209421946,
+                    "num_date": 2014.4069081660427,
+                    "num_date_confidence": [
+                      2014.366921224569,
+                      2014.4498556051526
+                    ]
+                  },
+                  "branch_length": 2.075e-05,
+                  "children": [
+                    {
+                      "aa_muts": {
+                        "ZEBOVgp1": [
+                          "I176V"
+                        ],
+                        "ZEBOVgp2": [
+                          "K6R"
+                        ]
+                      },
+                      "attr": {
+                        "accession": "MF599511",
+                        "clock_length": 0.0006346678096570768,
+                        "country": "SierraLeone15",
+                        "country_confidence": {
+                          "SierraLeone15": 1.0
+                        },
+                        "country_entropy": -1.000088900581841e-12,
+                        "date": "2015-04-21",
+                        "div": 0.0011096087701609322,
+                        "num_date": 2015.3039014373717,
+                        "num_date_confidence": [
+                          2015.3039014373717,
+                          2015.3039014373717
+                        ],
+                        "raw_date": "2015-04-21"
+                      },
+                      "branch_length": 0.00063467,
+                      "clade": 38,
+                      "muts": [
+                        "A995G",
+                        "A3145G",
+                        "T4291C",
+                        "A4931C",
+                        "T5219C",
+                        "T5297C",
+                        "T5309C",
+                        "T5336C",
+                        "G6521A",
+                        "C7867T",
+                        "A8742G",
+                        "T11883C",
+                        "T13396C",
+                        "C14400T",
+                        "T16231C"
+                      ],
+                      "strain": "MF599511",
+                      "yvalue": 19
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 0.00046836232496648466,
+                        "country": "SierraLeone15",
+                        "country_confidence": {
+                          "SierraLeone15": 0.9997978417286332
+                        },
+                        "country_entropy": 0.0019217890114412491,
+                        "date": "2015-01-25",
+                        "div": 0.0005810609572519364,
+                        "num_date": 2015.0688573741897,
+                        "num_date_confidence": [
+                          2014.8986358934717,
+                          2015.2011629258272
+                        ]
+                      },
+                      "branch_length": 0.00046836,
+                      "children": [
+                        {
+                          "aa_muts": {
+                            "ZEBOVgp7": [
+                              "P2038S"
+                            ]
+                          },
+                          "attr": {
+                            "accession": "MF599508",
+                            "clock_length": 0.00013724797972744897,
+                            "country": "SierraLeone15",
+                            "country_confidence": {
+                              "SierraLeone15": 1.0
+                            },
+                            "country_entropy": -1.000088900581841e-12,
+                            "date": "2015-04-06",
+                            "div": 0.0007395182745059486,
+                            "num_date": 2015.2628336755647,
+                            "num_date_confidence": [
+                              2015.2628336755647,
+                              2015.2628336755647
+                            ],
+                            "raw_date": "2015-04-06"
+                          },
+                          "branch_length": 0.00013725,
+                          "clade": 39,
+                          "muts": [
+                            "C730T",
+                            "C7367T",
+                            "C17692T"
+                          ],
+                          "strain": "MF599508",
+                          "yvalue": 18
+                        },
+                        {
+                          "aa_muts": {
+                            "ZEBOVgp7": [
+                              "Q1793R"
+                            ]
+                          },
+                          "attr": {
+                            "clock_length": 0.0002031927203285473,
+                            "country": "SierraLeone15",
+                            "country_confidence": {
+                              "SierraLeone15": 0.9999816303946916
+                            },
+                            "country_entropy": 0.00021868654801405482,
+                            "date": "2015-05-10",
+                            "div": 0.0007395130130834481,
+                            "num_date": 2015.3560351704234,
+                            "num_date_confidence": [
+                              2015.2770196432373,
+                              2015.416153319644
+                            ]
+                          },
+                          "branch_length": 0.00020319,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY426716",
+                                "clock_length": 4.2536611261312536e-05,
+                                "country": "SierraLeone15",
+                                "country_confidence": {
+                                  "SierraLeone15": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2015-06-01",
+                                "div": 0.0007395130130834482,
+                                "num_date": 2015.416153319644,
+                                "num_date_confidence": [
+                                  2015.416153319644,
+                                  2015.416153319644
+                                ],
+                                "raw_date": "2015-06-01"
+                              },
+                              "branch_length": 4.254e-05,
+                              "clade": 40,
+                              "muts": [],
+                              "strain": "KY426716",
+                              "yvalue": 17
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "accession": "KY426717",
+                                "clock_length": 4.2536611261312536e-05,
+                                "country": "SierraLeone15",
+                                "country_confidence": {
+                                  "SierraLeone15": 0.9999999999999999
+                                },
+                                "country_entropy": -9.99866855976916e-13,
+                                "date": "2015-06-01",
+                                "div": 0.0007923254084486678,
+                                "num_date": 2015.416153319644,
+                                "num_date_confidence": [
+                                  2015.416153319644,
+                                  2015.416153319644
+                                ],
+                                "raw_date": "2015-06-01"
+                              },
+                              "branch_length": 4.254e-05,
+                              "clade": 41,
+                              "muts": [
+                                "A16551G"
+                              ],
+                              "strain": "KY426717",
+                              "yvalue": 16
+                            }
+                          ],
+                          "clade": 42,
+                          "muts": [
+                            "T2929C",
+                            "G10246A",
+                            "A16958G"
+                          ],
+                          "strain": "NODE_0000032",
+                          "yvalue": 16.5
+                        }
+                      ],
+                      "clade": 43,
+                      "muts": [
+                        "T3008C",
+                        "T3011C",
+                        "A4208G",
+                        "T4434C",
+                        "T5276C"
+                      ],
+                      "strain": "NODE_0000031",
+                      "yvalue": 17.25
+                    },
+                    {
+                      "aa_muts": {},
+                      "attr": {
+                        "clock_length": 1.3612692006480416e-05,
+                        "country": "SierraLeone15",
+                        "country_confidence": {
+                          "SierraLeone14": 0.02785658619682209,
+                          "SierraLeone15": 0.9721434138031779
+                        },
+                        "country_entropy": 0.12721062181685489,
+                        "date": "2014-06-04",
+                        "div": 0.0003169407920942196,
+                        "num_date": 2014.42614735377,
+                        "num_date_confidence": [
+                          2014.39189858717,
+                          2014.4525242629281
+                        ]
+                      },
+                      "branch_length": 1.361e-05,
+                      "children": [
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 1.05731976308681e-05,
+                            "country": "SierraLeone14",
+                            "country_confidence": {
+                              "SierraLeone14": 0.9618071744986258,
+                              "SierraLeone15": 0.038192825501374206
+                            },
+                            "country_entropy": 0.16215769741686192,
+                            "date": "2014-06-10",
+                            "div": 0.0003169407920942198,
+                            "num_date": 2014.4410907414556,
+                            "num_date_confidence": [
+                              2014.4161026767954,
+                              2014.4533805243093
+                            ]
+                          },
+                          "branch_length": 1.057e-05,
+                          "children": [
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 1.3350193026932626e-05,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9985779686911214,
+                                  "SierraLeone15": 0.001422031308878726
+                                },
+                                "country_entropy": 0.010743386210348517,
+                                "date": "2014-06-16",
+                                "div": 0.00031694079209421995,
+                                "num_date": 2014.4599589322381,
+                                "num_date_confidence": [
+                                  2014.4468953938258,
+                                  2014.4599589322381
+                                ]
+                              },
+                              "branch_length": 1.335e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KM233099",
+                                    "clock_length": 0.0,
+                                    "country": "SierraLeone14",
+                                    "country_confidence": {
+                                      "SierraLeone14": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-06-16",
+                                    "div": 0.0003169407920942201,
+                                    "num_date": 2014.4599589322381,
+                                    "num_date_confidence": [
+                                      2014.4599589322381,
+                                      2014.4599589322381
+                                    ],
+                                    "raw_date": "2014-06-17"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 44,
+                                  "muts": [],
+                                  "strain": "KM233099",
+                                  "yvalue": 15
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KM233104",
+                                    "clock_length": 0.0,
+                                    "country": "SierraLeone14",
+                                    "country_confidence": {
+                                      "SierraLeone14": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-06-16",
+                                    "div": 0.0003169407920942201,
+                                    "num_date": 2014.4599589322381,
+                                    "num_date_confidence": [
+                                      2014.4599589322381,
+                                      2014.4599589322381
+                                    ],
+                                    "raw_date": "2014-06-17"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 45,
+                                  "muts": [],
+                                  "strain": "KM233104",
+                                  "yvalue": 14
+                                }
+                              ],
+                              "clade": 46,
+                              "muts": [],
+                              "strain": "NODE_0000026",
+                              "yvalue": 14.5
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 1.1413026029432997e-05,
+                                "country": "SierraLeone14",
+                                "country_confidence": {
+                                  "SierraLeone14": 0.9985261015725925,
+                                  "SierraLeone15": 0.0014738984274076333
+                                },
+                                "country_entropy": 0.011082400106884884,
+                                "date": "2014-06-16",
+                                "div": 0.00031694079209421995,
+                                "num_date": 2014.457221081451,
+                                "num_date_confidence": [
+                                  2014.4386637639268,
+                                  2014.457221081451
+                                ]
+                              },
+                              "branch_length": 1.141e-05,
+                              "children": [
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "accession": "KM233098",
+                                    "clock_length": 0.0,
+                                    "country": "SierraLeone14",
+                                    "country_confidence": {
+                                      "SierraLeone14": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2014-06-16",
+                                    "div": 0.0003169407920942201,
+                                    "num_date": 2014.457221081451,
+                                    "num_date_confidence": [
+                                      2014.457221081451,
+                                      2014.457221081451
+                                    ],
+                                    "raw_date": "2014-06-16"
+                                  },
+                                  "branch_length": 0.0,
+                                  "clade": 47,
+                                  "muts": [],
+                                  "strain": "KM233098",
+                                  "yvalue": 13
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 3.8743339951605865e-06,
+                                    "country": "SierraLeone14",
+                                    "country_confidence": {
+                                      "SierraLeone14": 0.9999181051035648
+                                    },
+                                    "country_entropy": 0.000852528567103382,
+                                    "date": "2014-06-18",
+                                    "div": 0.0003169407920942201,
+                                    "num_date": 2014.4626967830254,
+                                    "num_date_confidence": [
+                                      2014.453336269641,
+                                      2014.4626967830254
+                                    ]
+                                  },
+                                  "branch_length": 3.87e-06,
+                                  "children": [
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KM233112",
+                                        "clock_length": 0.0,
+                                        "country": "SierraLeone14",
+                                        "country_confidence": {
+                                          "SierraLeone14": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2014-06-18",
+                                        "div": 0.0003169407920942203,
+                                        "num_date": 2014.4626967830254,
+                                        "num_date_confidence": [
+                                          2014.4626967830254,
+                                          2014.4626967830254
+                                        ],
+                                        "raw_date": "2014-06-18"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 48,
+                                      "muts": [],
+                                      "strain": "KM233112",
+                                      "yvalue": 12
+                                    },
+                                    {
+                                      "aa_muts": {},
+                                      "attr": {
+                                        "accession": "KM233110",
+                                        "clock_length": 0.0,
+                                        "country": "SierraLeone14",
+                                        "country_confidence": {
+                                          "SierraLeone14": 0.9999999999999999
+                                        },
+                                        "country_entropy": -9.99866855976916e-13,
+                                        "date": "2014-06-18",
+                                        "div": 0.0003169407920942203,
+                                        "num_date": 2014.4626967830254,
+                                        "num_date_confidence": [
+                                          2014.4626967830254,
+                                          2014.4626967830254
+                                        ],
+                                        "raw_date": "2014-06-18"
+                                      },
+                                      "branch_length": 0.0,
+                                      "clade": 49,
+                                      "muts": [],
+                                      "strain": "KM233110",
+                                      "yvalue": 11
+                                    }
+                                  ],
+                                  "clade": 50,
+                                  "muts": [],
+                                  "strain": "NODE_0000028",
+                                  "yvalue": 11.5
+                                }
+                              ],
+                              "clade": 51,
+                              "muts": [],
+                              "strain": "NODE_0000027",
+                              "yvalue": 12.25
+                            }
+                          ],
+                          "clade": 52,
+                          "muts": [],
+                          "strain": "NODE_0000025",
+                          "yvalue": 13.375
+                        },
+                        {
+                          "aa_muts": {},
+                          "attr": {
+                            "clock_length": 0.00011921525349552556,
+                            "country": "SierraLeone15",
+                            "country_confidence": {
+                              "SierraLeone15": 0.999440922071083
+                            },
+                            "country_entropy": 0.004745980163575614,
+                            "date": "2014-08-05",
+                            "div": 0.0003697579223741026,
+                            "num_date": 2014.5946375128708,
+                            "num_date_confidence": [
+                              2014.4556957954733,
+                              2014.7333660453658
+                            ]
+                          },
+                          "branch_length": 0.00011922,
+                          "children": [
+                            {
+                              "aa_muts": {
+                                "ZEBOVgp1": [
+                                  "M671V"
+                                ],
+                                "ZEBOVgp4": [
+                                  "R29K"
+                                ],
+                                "ZEBOVgp7": [
+                                  "I256L"
+                                ]
+                              },
+                              "attr": {
+                                "accession": "KY426698",
+                                "clock_length": 0.0005812637110543385,
+                                "country": "SierraLeone15",
+                                "country_confidence": {
+                                  "SierraLeone15": 1.0
+                                },
+                                "country_entropy": -1.000088900581841e-12,
+                                "date": "2015-06-01",
+                                "div": 0.0007924265925513894,
+                                "num_date": 2015.416153319644,
+                                "num_date_confidence": [
+                                  2015.416153319644,
+                                  2015.416153319644
+                                ],
+                                "raw_date": "2015-06-01"
+                              },
+                              "branch_length": 0.00058126,
+                              "clade": 53,
+                              "muts": [
+                                "A2480G",
+                                "G6124A",
+                                "A7148C",
+                                "T9686C",
+                                "T10157C",
+                                "A12346T",
+                                "G12708A",
+                                "A14358C"
+                              ],
+                              "strain": "KY426698",
+                              "yvalue": 10
+                            },
+                            {
+                              "aa_muts": {},
+                              "attr": {
+                                "clock_length": 4.297862046443238e-06,
+                                "country": "SierraLeone15",
+                                "country_confidence": {
+                                  "SierraLeone15": 0.9999742919217478
+                                },
+                                "country_entropy": 0.0002974088483271915,
+                                "date": "2014-08-07",
+                                "div": 0.0003697579223741028,
+                                "num_date": 2014.6007117981553,
+                                "num_date_confidence": [
+                                  2014.4732266624485,
+                                  2014.7784289420047
+                                ]
+                              },
+                              "branch_length": 4.3e-06,
+                              "children": [
+                                {
+                                  "aa_muts": {
+                                    "ZEBOVgp7": [
+                                      "A2090T"
+                                    ]
+                                  },
+                                  "attr": {
+                                    "accession": "KY426700",
+                                    "clock_length": 0.0005769658490078953,
+                                    "country": "SierraLeone15",
+                                    "country_confidence": {
+                                      "SierraLeone15": 1.0
+                                    },
+                                    "country_entropy": -1.000088900581841e-12,
+                                    "date": "2015-06-01",
+                                    "div": 0.0006867413684946556,
+                                    "num_date": 2015.416153319644,
+                                    "num_date_confidence": [
+                                      2015.416153319644,
+                                      2015.416153319644
+                                    ],
+                                    "raw_date": "2015-06-01"
+                                  },
+                                  "branch_length": 0.00057697,
+                                  "clade": 54,
+                                  "muts": [
+                                    "A4200G",
+                                    "A4628G",
+                                    "T7489A",
+                                    "G8079A",
+                                    "G17112A",
+                                    "G17848A"
+                                  ],
+                                  "strain": "KY426700",
+                                  "yvalue": 9
+                                },
+                                {
+                                  "aa_muts": {},
+                                  "attr": {
+                                    "clock_length": 6.22654697326943e-06,
+                                    "country": "SierraLeone15",
+                                    "country_confidence": {
+                                      "SierraLeone15": 0.9999847135080718
+                                    },
+                                    "country_entropy": 0.000184791265580692,
+                                    "date": "2014-08-10",
+                                    "div": 0.00036975792237410295,
+                                    "num_date": 2014.6095119462857,
+                                    "num_date_confidence": [
+                                      2014.484422524701,
+                                      2014.818671142173
+                                    ]
+                                  },
+                                  "branch_length": 6.23e-06,
+                                  "children": [
+                                    {
+                                      "aa_muts": {
+                                        "ZEBOVgp1": [
+                                          "A634V"
+                                        ],
+                                        "ZEBOVgp6": [
+                                          "Y41C"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "accession": "MF599514",
+                                        "clock_length": 0.0005474932980641437,
+                                        "country": "SierraLeone15",
+                                        "country_confidence": {
+                                          "SierraLeone15": 1.0
+                                        },
+                                        "country_entropy": -1.000088900581841e-12,
+                                        "date": "2015-05-20",
+                                        "div": 0.001638466337978375,
+                                        "num_date": 2015.3832991101985,
+                                        "num_date_confidence": [
+                                          2015.3832991101985,
+                                          2015.3832991101985
+                                        ],
+                                        "raw_date": "2015-05-20"
+                                      },
+                                      "branch_length": 0.00054749,
+                                      "clade": 55,
+                                      "muts": [
+                                        "C2370T",
+                                        "A4384T",
+                                        "T5512C",
+                                        "T5519C",
+                                        "T5522C",
+                                        "T5523C",
+                                        "T5553C",
+                                        "T5566C",
+                                        "T5587C",
+                                        "T5594C",
+                                        "T5595C",
+                                        "T5596C",
+                                        "T5604C",
+                                        "T5616C",
+                                        "T5631C",
+                                        "C5880T",
+                                        "C8044T",
+                                        "C10431T",
+                                        "A10466G",
+                                        "T13350C",
+                                        "G13557A",
+                                        "T15226C",
+                                        "T18078C"
+                                      ],
+                                      "strain": "MF599514",
+                                      "yvalue": 8
+                                    },
+                                    {
+                                      "aa_muts": {
+                                        "ZEBOVgp1": [
+                                          "P497S"
+                                        ]
+                                      },
+                                      "attr": {
+                                        "clock_length": 0.0003779573117221437,
+                                        "country": "SierraLeone15",
+                                        "country_confidence": {
+                                          "SierraLeone15": 0.9999849170267125
+                                        },
+                                        "country_entropy": 0.0001825331830407721,
+                                        "date": "2015-02-21",
+                                        "div": 0.0006338955705345432,
+                                        "num_date": 2015.1436892911988,
+                                        "num_date_confidence": [
+                                          2014.9921909723369,
+                                          2015.2820635760422
+                                        ]
+                                      },
+                                      "branch_length": 0.00037796,
+                                      "children": [
+                                        {
+                                          "aa_muts": {},
+                                          "attr": {
+                                            "accession": "KY426699",
+                                            "clock_length": 0.00019278199031248213,
+                                            "country": "SierraLeone15",
+                                            "country_confidence": {
+                                              "SierraLeone15": 1.0
+                                            },
+                                            "country_entropy": -1.000088900581841e-12,
+                                            "date": "2015-06-01",
+                                            "div": 0.0007395321203561658,
+                                            "num_date": 2015.416153319644,
+                                            "num_date_confidence": [
+                                              2015.416153319644,
+                                              2015.416153319644
+                                            ],
+                                            "raw_date": "2015-06-01"
+                                          },
+                                          "branch_length": 0.00019278,
+                                          "clade": 56,
+                                          "muts": [
+                                            "T5474C",
+                                            "G15849A"
+                                          ],
+                                          "strain": "KY426699",
+                                          "yvalue": 7
+                                        },
+                                        {
+                                          "aa_muts": {
+                                            "ZEBOVgp7": [
+                                              "T1772A"
+                                            ]
+                                          },
+                                          "attr": {
+                                            "clock_length": 0.00013941239123410176,
+                                            "country": "SierraLeone15",
+                                            "country_confidence": {
+                                              "SierraLeone15": 0.9999849153633713
+                                            },
+                                            "country_entropy": 0.00018255164924615159,
+                                            "date": "2015-05-04",
+                                            "div": 0.000845184318708786,
+                                            "num_date": 2015.3407246142042,
+                                            "num_date_confidence": [
+                                              2015.2671310315786,
+                                              2015.3988513473698
+                                            ]
+                                          },
+                                          "branch_length": 0.00013941,
+                                          "children": [
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "accession": "MF599516",
+                                                "clock_length": 4.174659709305908e-05,
+                                                "country": "SierraLeone15",
+                                                "country_confidence": {
+                                                  "SierraLeone15": 1.0
+                                                },
+                                                "country_entropy": -1.000088900581841e-12,
+                                                "date": "2015-05-25",
+                                                "div": 0.0008979993278786094,
+                                                "num_date": 2015.3997262149212,
+                                                "num_date_confidence": [
+                                                  2015.3997262149212,
+                                                  2015.3997262149212
+                                                ],
+                                                "raw_date": "2015-05-26"
+                                              },
+                                              "branch_length": 4.175e-05,
+                                              "clade": 57,
+                                              "muts": [
+                                                "A14031G"
+                                              ],
+                                              "strain": "MF599516",
+                                              "yvalue": 6
+                                            },
+                                            {
+                                              "aa_muts": {},
+                                              "attr": {
+                                                "clock_length": 1.6656375203529146e-05,
+                                                "country": "SierraLeone15",
+                                                "country_confidence": {
+                                                  "SierraLeone15": 0.9999846266835464
+                                                },
+                                                "country_entropy": 0.00018575377545179849,
+                                                "date": "2015-05-13",
+                                                "div": 0.0008451843187087862,
+                                                "num_date": 2015.3642655221483,
+                                                "num_date_confidence": [
+                                                  2015.3017806063979,
+                                                  2015.4110585612354
+                                                ]
+                                              },
+                                              "branch_length": 1.666e-05,
+                                              "children": [
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "clock_length": 3.671322387485123e-05,
+                                                    "country": "SierraLeone15",
+                                                    "country_confidence": {
+                                                      "SierraLeone15": 0.9999852100694641
+                                                    },
+                                                    "country_entropy": 0.00017927697784865187,
+                                                    "date": "2015-06-01",
+                                                    "div": 0.0008451843187087863,
+                                                    "num_date": 2015.416153319644,
+                                                    "num_date_confidence": [
+                                                      2015.3585679939458,
+                                                      2015.416153319644
+                                                    ]
+                                                  },
+                                                  "branch_length": 3.671e-05,
+                                                  "children": [
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KY426731",
+                                                        "clock_length": 0.0,
+                                                        "country": "SierraLeone15",
+                                                        "country_confidence": {
+                                                          "SierraLeone15": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-01",
+                                                        "div": 0.0008451843187087864,
+                                                        "num_date": 2015.416153319644,
+                                                        "num_date_confidence": [
+                                                          2015.416153319644,
+                                                          2015.416153319644
+                                                        ],
+                                                        "raw_date": "2015-06-01"
+                                                      },
+                                                      "branch_length": 0.0,
+                                                      "clade": 58,
+                                                      "muts": [],
+                                                      "strain": "KY426731",
+                                                      "yvalue": 5
+                                                    },
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KY426729",
+                                                        "clock_length": 0.0,
+                                                        "country": "SierraLeone15",
+                                                        "country_confidence": {
+                                                          "SierraLeone15": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-01",
+                                                        "div": 0.0008451843187087864,
+                                                        "num_date": 2015.416153319644,
+                                                        "num_date_confidence": [
+                                                          2015.416153319644,
+                                                          2015.416153319644
+                                                        ],
+                                                        "raw_date": "2015-06-01"
+                                                      },
+                                                      "branch_length": 0.0,
+                                                      "clade": 59,
+                                                      "muts": [],
+                                                      "strain": "KY426729",
+                                                      "yvalue": 4
+                                                    }
+                                                  ],
+                                                  "clade": 60,
+                                                  "muts": [],
+                                                  "strain": "NODE_0000039",
+                                                  "yvalue": 4.5
+                                                },
+                                                {
+                                                  "aa_muts": {},
+                                                  "attr": {
+                                                    "clock_length": 2.078001863968157e-05,
+                                                    "country": "SierraLeone15",
+                                                    "country_confidence": {
+                                                      "SierraLeone15": 0.9999849211993734
+                                                    },
+                                                    "country_entropy": 0.00018248685787983145,
+                                                    "date": "2015-05-23",
+                                                    "div": 0.0008451843187087863,
+                                                    "num_date": 2015.3936344874783,
+                                                    "num_date_confidence": [
+                                                      2015.3507449726073,
+                                                      2015.4121794080854
+                                                    ]
+                                                  },
+                                                  "branch_length": 2.078e-05,
+                                                  "children": [
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "accession": "KY426715",
+                                                        "clock_length": 1.5933205235169664e-05,
+                                                        "country": "SierraLeone15",
+                                                        "country_confidence": {
+                                                          "SierraLeone15": 1.0
+                                                        },
+                                                        "country_entropy": -1.000088900581841e-12,
+                                                        "date": "2015-06-01",
+                                                        "div": 0.0008451843187087864,
+                                                        "num_date": 2015.416153319644,
+                                                        "num_date_confidence": [
+                                                          2015.416153319644,
+                                                          2015.416153319644
+                                                        ],
+                                                        "raw_date": "2015-06-01"
+                                                      },
+                                                      "branch_length": 1.593e-05,
+                                                      "clade": 61,
+                                                      "muts": [],
+                                                      "strain": "KY426715",
+                                                      "yvalue": 3
+                                                    },
+                                                    {
+                                                      "aa_muts": {},
+                                                      "attr": {
+                                                        "clock_length": 1.5933205235169664e-05,
+                                                        "country": "SierraLeone15",
+                                                        "country_confidence": {
+                                                          "SierraLeone15": 0.9999852157137671
+                                                        },
+                                                        "country_entropy": 0.00017921420337830036,
+                                                        "date": "2015-06-01",
+                                                        "div": 0.0008451843187087864,
+                                                        "num_date": 2015.416153319644,
+                                                        "num_date_confidence": [
+                                                          2015.3809116424773,
+                                                          2015.416153319644
+                                                        ]
+                                                      },
+                                                      "branch_length": 1.593e-05,
+                                                      "children": [
+                                                        {
+                                                          "aa_muts": {},
+                                                          "attr": {
+                                                            "accession": "KY426727",
+                                                            "clock_length": 0.0,
+                                                            "country": "SierraLeone15",
+                                                            "country_confidence": {
+                                                              "SierraLeone15": 1.0
+                                                            },
+                                                            "country_entropy": -1.000088900581841e-12,
+                                                            "date": "2015-06-01",
+                                                            "div": 0.0008451843187087865,
+                                                            "num_date": 2015.416153319644,
+                                                            "num_date_confidence": [
+                                                              2015.416153319644,
+                                                              2015.416153319644
+                                                            ],
+                                                            "raw_date": "2015-06-01"
+                                                          },
+                                                          "branch_length": 0.0,
+                                                          "clade": 62,
+                                                          "muts": [],
+                                                          "strain": "KY426727",
+                                                          "yvalue": 2
+                                                        },
+                                                        {
+                                                          "aa_muts": {},
+                                                          "attr": {
+                                                            "accession": "KY426733",
+                                                            "clock_length": 0.0,
+                                                            "country": "SierraLeone15",
+                                                            "country_confidence": {
+                                                              "SierraLeone15": 1.0
+                                                            },
+                                                            "country_entropy": -1.000088900581841e-12,
+                                                            "date": "2015-06-01",
+                                                            "div": 0.0008451843187087865,
+                                                            "num_date": 2015.416153319644,
+                                                            "num_date_confidence": [
+                                                              2015.416153319644,
+                                                              2015.416153319644
+                                                            ],
+                                                            "raw_date": "2015-06-01"
+                                                          },
+                                                          "branch_length": 0.0,
+                                                          "clade": 63,
+                                                          "muts": [],
+                                                          "strain": "KY426733",
+                                                          "yvalue": 1
+                                                        }
+                                                      ],
+                                                      "clade": 64,
+                                                      "muts": [],
+                                                      "strain": "NODE_0000041",
+                                                      "yvalue": 1.5
+                                                    }
+                                                  ],
+                                                  "clade": 65,
+                                                  "muts": [],
+                                                  "strain": "NODE_0000040",
+                                                  "yvalue": 2.25
+                                                }
+                                              ],
+                                              "clade": 66,
+                                              "muts": [],
+                                              "strain": "NODE_0000038",
+                                              "yvalue": 3.375
+                                            }
+                                          ],
+                                          "clade": 67,
+                                          "muts": [
+                                            "A7352G",
+                                            "T9426C",
+                                            "C15048T",
+                                            "A16894G"
+                                          ],
+                                          "strain": "NODE_0000037",
+                                          "yvalue": 4.6875
+                                        }
+                                      ],
+                                      "clade": 68,
+                                      "muts": [
+                                        "C1958T",
+                                        "A5548G",
+                                        "A7267T",
+                                        "A10273G"
+                                      ],
+                                      "strain": "NODE_0000036",
+                                      "yvalue": 5.84375
+                                    }
+                                  ],
+                                  "clade": 69,
+                                  "muts": [
+                                    "C11407T"
+                                  ],
+                                  "strain": "NODE_0000035",
+                                  "yvalue": 6.921875
+                                }
+                              ],
+                              "clade": 70,
+                              "muts": [],
+                              "strain": "NODE_0000033",
+                              "yvalue": 7.9609375
+                            }
+                          ],
+                          "clade": 71,
+                          "muts": [
+                            "T5849C"
+                          ],
+                          "strain": "NODE_0000034",
+                          "yvalue": 8.98046875
+                        }
+                      ],
+                      "clade": 72,
+                      "muts": [],
+                      "strain": "NODE_0000024",
+                      "yvalue": 11.177734375
+                    }
+                  ],
+                  "clade": 73,
+                  "muts": [
+                    "T14019C"
+                  ],
+                  "strain": "NODE_0000030",
+                  "yvalue": 15.0888671875
+                }
+              ],
+              "clade": 74,
+              "muts": [],
+              "strain": "NODE_0000014",
+              "yvalue": 19.04443359375
+            }
+          ],
+          "clade": 75,
+          "muts": [
+            "G10218A"
+          ],
+          "strain": "NODE_0000016",
+          "yvalue": 23.022216796875
+        }
+      ],
+      "clade": 76,
+      "muts": [],
+      "strain": "NODE_0000011",
+      "yvalue": 29.0111083984375
+    }
+  ],
+  "clade": 77,
+  "muts": [],
+  "strain": "NODE_0000000",
+  "yvalue": 34.63055419921875
+}

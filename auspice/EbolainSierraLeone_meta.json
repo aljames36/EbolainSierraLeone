@@ -1,0 +1,108 @@
+{
+  "annotations": {
+    "ZEBOVgp1": {
+      "end": 2689,
+      "start": 469,
+      "strand": 1
+    },
+    "ZEBOVgp2": {
+      "end": 4151,
+      "start": 3128,
+      "strand": 1
+    },
+    "ZEBOVgp3": {
+      "end": 5459,
+      "start": 4478,
+      "strand": 1
+    },
+    "ZEBOVgp4": {
+      "end": 6933,
+      "start": 6038,
+      "strand": 1
+    },
+    "ZEBOVgp5": {
+      "end": 9375,
+      "start": 8508,
+      "strand": 1
+    },
+    "ZEBOVgp6": {
+      "end": 11100,
+      "start": 10344,
+      "strand": 1
+    },
+    "ZEBOVgp7": {
+      "end": 18219,
+      "start": 11580,
+      "strand": 1
+    },
+    "nuc": {
+      "end": 18959,
+      "start": 0,
+      "strand": 1
+    }
+  },
+  "author_info": {},
+  "color_options": {
+    "country": {
+      "color_map": [
+        [
+          "SierraLeone14",
+          "#F50000"
+        ],
+        [
+          "SierraLeone15",
+          "#1849F5"
+        ]
+      ],
+      "key": "country",
+      "legendTitle": "Country",
+      "menuItem": "country",
+      "type": "discrete"
+    },
+    "num_date": {
+      "key": "num_date",
+      "legendTitle": "Sampling date",
+      "menuItem": "date",
+      "type": "continuous"
+    },
+    "state": {
+      "key": "state",
+      "legendTitle": "State",
+      "menuItem": "state",
+      "type": "discrete"
+    }
+  },
+  "defaults": {
+    "colorBy": "state",
+    "geoResolution": "state",
+    "mapTriplicate": false
+  },
+  "filters": [
+    "country",
+    "state"
+  ],
+  "geo": {
+    "country": {
+      "SierraLeone14": {
+        "latitude": 8.4606,
+        "longitude": -11.7799
+      },
+      "SierraLeone15": {
+        "latitude": 8.4606,
+        "longitude": -11.7799
+      }
+    }
+  },
+  "maintainer": [
+    "Amber James",
+    "http://github.com"
+  ],
+  "panels": [
+    "tree",
+    "map",
+    "entropy"
+  ],
+  "title": "Ebola in Sierra Leone",
+  "updated": "03 Mar 2020",
+  "virus_count": 43
+}
